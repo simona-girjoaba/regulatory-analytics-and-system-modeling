@@ -1,2 +1,2 @@
 # python-lernen
-Meine Python Lernprojekte - AI &amp; Data Science
+Python Lernprojekte - AI &amp; Data Science
