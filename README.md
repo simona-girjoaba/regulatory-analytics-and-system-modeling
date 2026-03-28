@@ -43,4 +43,5 @@ Ich bin eine erfahrene **Ingenieurin für Nachrichtentechnik** mit 9 Jahren Erfa
 - [ ] **Aktueller Fokus**: Vertiefung in die akademische Mathematik (Knoblauch) und Vorbereitung auf die C2-Prüfung.
 
 ---
-**Kontakt**: Simona-Maria Girjoaba | [(https://www.linkedin.com/in/simona-maria-girjoaba)/newgirjoabasimonamaria@gmail.com]
+**Kontakt**: Simona-Maria Girjoaba |https://www.linkedin.com/in/simona-maria-girjoaba| 
+             E-Mail: newgirjoabasimonamaria@gmail.com
