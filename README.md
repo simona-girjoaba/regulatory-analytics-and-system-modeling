@@ -1,49 +1,45 @@
-# Portfolio: Systemtechnik, KI & Nachhaltigkeit
-**Akademische Vorbereitung: M.Sc. Mathematik für Nachhaltigkeit, Wirtschaft und Data Science**
+# Portfolio: Quantitative Systemmodellierung, KI-Governance & Nachhaltigkeit
+**Vorbereitung: M.Sc. Mathematik, Nachhaltigkeit, Data Science und Wirtschaft**
 
 ## 👨‍💻 Professionelles Profil
-Ich bin eine erfahrene **Ingenieurin für Nachrichtentechnik** mit 9 Jahren Erfahrung in der Optimierung und Verwaltung komplexer IT- und Netzwerkinfrastrukturen. Aktuell befinde ich mich in einer strategischen Neuausrichtung auf die Bereiche **Quantitative Nachhaltigkeit und KI-Modellierung**. Durch die Kombination meines Hintergrunds in der Signalverarbeitung mit fortgeschrittener Mathematik entwickle ich datengestützte Lösungen für globale ökonomische und ökologische Herausforderungen.
+Als Ingenieurin für Nachrichtentechnik mit neun Jahren Erfahrung in der Optimierung komplexer IT- und Netzwerkinfrastrukturen fokussiere ich mich auf die Schnittstelle zwischen quantitativer Datenanalyse und gesellschaftlicher Transformation. Mein Ziel ist die Entwicklung datengestützter, regulierungskonformer KI-Lösungen für lokale soziale Projekte (NGOs, Migration, ESG-Reporting) im DACH-Raum. 
+
+Dieses Repository dokumentiert meine systematische Vorbereitung auf das Masterstudium durch die direkte Synthese von fortgeschrittener Mathematik, Python-Engineering, rechtlichen Rahmenbedingungen (DSGVO/EU AI Act) und der deutschen Wissenschaftssprache auf C1/C2-Niveau.
 
 ---
 
-## 🏛️ Die vier Säulen der Master-Vorbereitung
+## 🏛️ Methodik: Interdisziplinäre "Topic-Locked" Sprints
+Anstatt Disziplinen isoliert zu betrachten, ist dieses Portfolio in thematische Sprints gegliedert. Jedes Modul erzwingt die simultane Anwendung von vier Kernkompetenzen auf ein spezifisches Problem:
+1. **Algorithmische Mathematik:** Formale Beweise und stochastische Modellierung.
+2. **Angewandtes Engineering:** Datenverarbeitung mit Python (Pandas, NumPy, Scikit-Learn).
+3. **Governance & Ethik:** Anwendung von regulatorischen Einschränkungen auf die Modelle.
+4. **Wissenschaftssprache:** Dokumentation und Analyse in akademischem Deutsch.
 
-### 01. [Angewandte Data Science & KI-Implementierung](./01-applied-data-science-python)
-* **Fokus**: Praxisnahe Datenverarbeitung mit Python und algorithmische Problemlösung.
-* **Meilensteine**: AI Python for Beginners, Google AI Essentials und KI-Strategie (Wharton).
-* **Ziel**: Beherrschung des Python-Ecosystems (Pandas, Scikit-Learn) für prädiktive Modelle.
+---
 
-### 02. [Mathematische Grundlagen für Data Science](./02-mathe-basics-data-science)
-* **Fokus**: Universitäre Mathematik (Analysis, Lineare Algebra, Mengenlehre).
-* **Engineering-Vorteil**: Nutzung meines M.Sc.-Hintergrunds in Mobilkommunikation für formale Beweise und stochastische Modellierung.
-* **Ziel**: Verbindung von theoretischen Beweisen (LaTeX) mit numerischer Prüfung (NumPy).
+## 📂 Repository Architektur & Fortschritt
 
-### 03. [Nachhaltigkeit & Systemmodellierung](./03-sustainability-ai-modeling)
-* **Fokus**: Transdisziplinäre Vision der SDGs, Umweltökonomik und Model Thinking.
-* **Meilensteine**: Sustainable Development Goals (SDG) und Nachhaltigkeitssysteme (Universität Zürich).
-* **Ziel**: Anwendung von Systemdenken zur Lösung komplexer Rückkopplungsschleifen in Wirtschaft und Gesellschaft.
+### [01_Lineare_Algebra_und_Ethik](./01_Lineare_Algebra_und_Ethik)
+* **Mathematik:** Matrizenrechnung, Vektorräume, Transformationen.
+* **Engineering:** Datenstrukturen und Manipulation demografischer Datensätze.
+* **Governance:** Ethik automatisierter Entscheidungen und Bias-Risiken.
+* **Status:** In Bearbeitung 🔄
 
-### 04. [Akademisches Deutsch (C1/C2)](./04-akademisches-deutsch)
-* **Fokus**: Wissenschaftliche Kommunikation und professionelle Integration im DACH-Raum.
-* **Ressourcen**: *Schubert C-Grammatik*, *Buscha Geschäftsdeutsch* und C2-Fertigkeitstraining.
-* **Ziel**: Erreichen der für deutsche Seminare und Forschungsarbeiten erforderlichen sprachlichen Präzision (Nominalstil).
+### [02_Analysis_und_Ressourcenverbrauch](./02_Analysis_und_Ressourcenverbrauch) *(Geplant)*
+* **Fokus:** Gradient Descent, Kostenfunktionen und der ökologische Fußabdruck von KI-Modellen.
+
+### [03_Wahrscheinlichkeit_und_Bias](./03_Wahrscheinlichkeit_und_Bias) *(Geplant)*
+* **Fokus:** Verteilungen, Bayessche Inferenz und die statistische Analyse von Migrations- und NGO-Daten.
 
 ---
 
 ## 🛠️ Technisches Profil
-* **Mathematik**: Signalverarbeitung, Stochastik, Lineare Algebra, LaTeX.
-* **Programmierung**: Python (Pandas, NumPy, Scikit-Learn), SQL.
-* **Engineering**: Netzwerkoptimierung (CCNA), Cybersecurity Risk Management (Fortinet), Systemarchitektur.
+* **Quantitative Methoden:** Signalverarbeitung, Stochastik, Lineare Algebra.
+* **Programmierung & Data Science:** Python, SQL, Jupyter Environments.
+* **System-Engineering:** Netzwerkarchitektur (CCNA), Cybersecurity Risk Management Framework,Fortinet.
+* **Kommunikation:** Wissenschaftliches Deutsch (Fokus: Nominalstil, präzise Fachterminologie).
 
 ---
+**Kontakt:** Simona-Maria Girjoaba | [LinkedIn Profil](https://www.linkedin.com/in/simona-maria-girjoaba) | E-Mail: newgirjoabasimonamaria@gmail.com
 
-## 📈 Roadmap & Fortschritt
-- [x] **Strategie**: Definition der vier Säulen zur Master-Vorbereitung.
-- [x] **Pivot**: Abschluss spezialisierter Kurse in Business AI und globaler Nachhaltigkeit.
-- [ ] **Aktueller Fokus**: Vertiefung in die akademische Mathematik (Knoblauch) und Vorbereitung auf die C2-Prüfung.
-
----
-**Kontakt**: Simona-Maria Girjoaba |https://www.linkedin.com/in/simona-maria-girjoaba| 
-             E-Mail: newgirjoabasimonamaria@gmail.com
- ---
-> *Methodischer Hinweis: Dieses Portfolio wurde unter Einsatz von Generativer KI (Gemini) erstellt. Die KI diente dabei als Strukturgeber und Korrektor. Alle fachlichen Inhalte wurden von mir persönlich geprüft, umformuliert und durch meine berufliche Erfahrung als Ingenieurin ergänzt.*            
+> *Methodischer Hinweis: Dieses Portfolio wendet Prinzipien der kontinuierlichen Integration auf den akademischen Lernprozess an. Generative KI wird ausschließlich als Code-Reviewer und Korrektor für die deutsche Wissenschaftssprache eingesetzt. Sämtliche Architekturentscheidungen und Datenanalysen sind eigenständig entwickelt.*
