@@ -45,3 +45,5 @@ Ich bin eine erfahrene **Ingenieurin für Nachrichtentechnik** mit 9 Jahren Erfa
 ---
 **Kontakt**: Simona-Maria Girjoaba |https://www.linkedin.com/in/simona-maria-girjoaba| 
              E-Mail: newgirjoabasimonamaria@gmail.com
+ ---
+> *Methodischer Hinweis: Dieses Portfolio wurde unter Einsatz von Generativer KI (Gemini) erstellt. Die KI diente dabei als Strukturgeber und Korrektor. Alle fachlichen Inhalte wurden von mir persönlich geprüft, umformuliert und durch meine berufliche Erfahrung als Ingenieurin ergänzt.*            
