@@ -29,30 +29,23 @@
 ---
 
 ## 📂 Repository-Struktur | Repository Structure
-
-### [01_Linear_Algebra_and_Ethics](./01_Linear_Algebra_and_Ethics)
-* **DE:** Vektorräume, Matrizenrechnung und die Ethik automatisierter Entscheidungsfindungen.
-* **EN:** Vector spaces, matrix calculus, and the ethics of automated decision-making.
-
-### [02_Master_Curriculum_DS_ML](./02_Master_Curriculum_DS_ML)
-* **Track A:** Applied Data Science with Python (Michigan Specialization).
-* **Track B:** Machine Learning Specialization (Andrew Ng / DeepLearning.AI).
-* **Track C:** Regulatory Documentation & Audit Reports.
+* **[01_Linear_Algebra_and_Ethics](./01_Linear_Algebra_and_Ethics)**: Vector spaces, Matrix calculus & Algorithmic Ethics.
+* **[02_Master_Curriculum_DS_ML](./02_Master_Curriculum_DS_ML)**: Integrated Master-Prep Tracks (A, B, C).
 
 ---
 
 ## 🛠️ Technisches Profil | Technical Profile
-* **Domain Focus:** Anti-Money Laundering (AML), Privacy-Enhancing Technologies (PETs), AI Governance.
-* **Quantitative Methods:** Linear Algebra, Statistical Inference, Calculus.
+* **Domain Focus:** Anti-Money Laundering (AML), Privacy-Enhancing Technologies (PETs), AI Governance, Risk Management.
+* **Quantitative Methods:** Linear Algebra, Statistical Inference, Calculus, Stochastic Processes.
 * **Tools:** Python (NumPy, Pandas, Scikit-Learn), SQL, Git, LaTeX.
 * **Languages:** German (C2 - Regulatory/Scientific), English (Academic/Technical).
 
 ---
 
 ## 🤖 KI-Unterstützung | AI Attribution
-**DE:** Dieses Portfolio und die zugrundeliegende methodische Struktur wurden unter unterstützender Verwendung von **generativer KI (Gemini)** erstellt. Die KI fungierte hierbei als Tutor für die fachsprachliche Optimierung (C2-Deutsch/Academic English) sowie als Architektur-Berater für die Verzeichnisstruktur und die methodische Verknüpfung der Curricula. Alle fachlichen Inhalte und Implementierungen unterliegen meiner persönlichen Validierung.
+**DE:** Dieses Portfolio und die methodische Struktur wurden unter unterstützender Verwendung von **generativer KI (Gemini)** erstellt. Die KI fungierte als Tutor für linguistische Optimierung und Architektur-Beratung. Alle Inhalte unterliegen meiner persönlichen Validierung.
 
-**EN:** This portfolio and its underlying methodical structure were developed with the support of **generative AI (Gemini)**. The AI served as a tutor for linguistic optimization (C2 German/Academic English) and as an architectural consultant for the directory structure and the methodical integration of the curricula. All technical content and implementations are subject to my personal validation.
+**EN:** This portfolio and its methodical structure were developed with the support of **generative AI (Gemini)**. The AI served as a tutor for linguistic optimization and architectural consultation. All content is subject to my personal validation.
 
 ---
-**Kontakt:** Simona-Maria Girjoaba | [www.linkedin.com/in/simona-maria-girjoaba]  | E-Mail: newgirjoabasimonamaria@gmail.com
+**Kontakt:** Simona-Maria Girjoaba | [LinkedIn](https://www.linkedin.com/in/simona-maria-girjoaba) | E-Mail: newgirjoabasimonamaria@gmail.com
