@@ -55,4 +55,4 @@
 **EN:** This portfolio and its underlying methodical structure were developed with the support of **generative AI (Gemini)**. The AI served as a tutor for linguistic optimization (C2 German/Academic English) and as an architectural consultant for the directory structure and the methodical integration of the curricula. All technical content and implementations are subject to my personal validation.
 
 ---
-**Kontakt:** Simona-Maria Girjoaba | [LinkedIn](www.linkedin.com/in/simona-maria-girjoaba) | E-Mail: newgirjoabasimonamaria@gmail.com
+**Kontakt:** Simona-Maria Girjoaba | [www.linkedin.com/in/simona-maria-girjoaba]  | E-Mail: newgirjoabasimonamaria@gmail.com
