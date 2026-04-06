@@ -1,45 +1,59 @@
-# Portfolio: Quantitative Systemmodellierung, KI-Governance & Nachhaltigkeit
-**Vorbereitung: M.Sc. Mathematik, Nachhaltigkeit, Data Science und Wirtschaft**
+🇩🇪 Regulatorische Analytik & Systemmodellierung | 🇺🇸 Regulatory Analytics & System Modeling
+Aspiring AML Data Scientist | Privacy Engineer in Training M.Sc. Preparation: Mathematics for Sustainability, Economics, and Data Science (THM Friedberg)
 
-## 👨‍💻 Professionelles Profil
-Als Ingenieurin für Nachrichtentechnik mit neun Jahren Erfahrung in der Optimierung komplexer IT- und Netzwerkinfrastrukturen fokussiere ich mich auf die Schnittstelle zwischen quantitativer Datenanalyse und gesellschaftlicher Transformation. Mein Ziel ist die Entwicklung datengestützter, regulierungskonformer KI-Lösungen für lokale soziale Projekte (NGOs, Migration, ESG-Reporting) im DACH-Raum. 
+👨‍💻 Professionelles Profil | Professional Profile
+DE: Als Ingenieurin für Nachrichtentechnik mit neunjähriger Expertise in komplexen IT-Infrastrukturen befinde ich mich aktuell in einer gezielten akademischen Spezialisierungsphase. Dieses Portfolio dokumentiert meinen wissenschaftlichen Brückenschlag und die Vorbereitung auf das Masterstudium an der THM Friedberg. Mein Fokus liegt auf der Entwicklung zur AML Data Scientist und Privacy Engineer durch die Synergie von fortgeschrittener Mathematik, Python-Engineering und der Evaluation regulatorischer Rahmenbedingungen (EU AI Act/DSGVO).
 
-Dieses Repository dokumentiert meine systematische Vorbereitung auf das Masterstudium durch die direkte Synthese von fortgeschrittener Mathematik, Python-Engineering, rechtlichen Rahmenbedingungen (DSGVO/EU AI Act) und der deutschen Wissenschaftssprache auf C1/C2-Niveau.
+EN: As a Telecommunications Engineer with nine years of experience in complex IT infrastructures, I am currently in a targeted academic specialization phase. This portfolio documents my scientific bridge and preparation for the M.Sc. program at THM Friedberg. My focus lies in evolving into an AML Data Scientist and Privacy Engineer by synthesizing advanced mathematics, Python engineering, and the evaluation of regulatory frameworks (EU AI Act/GDPR).
 
----
+🏛️ Methodik: Der Master-Vorbereitungs-Sprint | Methodology: Master Prep Sprint
+DE: Zur Vorbereitung auf die mathematisch anspruchsvollen Kernmodule des M.Sc. (insb. Stochastische Prozesse und Zeitreihenanalyse) folge ich einem interdisziplinären 12-Wochen-Plan. Dieser Sprint dient der systematischen Transformation meiner ingenieurwissenschaftlichen Basis hin zu einer spezialisierten Expertise in der regulatorischen Datenanalyse:
 
-## 🏛️ Methodik: Interdisziplinäre "Topic-Locked" Sprints
-Anstatt Disziplinen isoliert zu betrachten, ist dieses Portfolio in thematische Sprints gegliedert. Jedes Modul erzwingt die simultane Anwendung von vier Kernkompetenzen auf ein spezifisches Problem:
-1. **Algorithmische Mathematik:** Formale Beweise und stochastische Modellierung.
-2. **Angewandtes Engineering:** Datenverarbeitung mit Python (Pandas, NumPy, Scikit-Learn).
-3. **Governance & Ethik:** Anwendung von regulatorischen Einschränkungen auf die Modelle.
-4. **Wissenschaftssprache:** Dokumentation und Analyse in akademischem Deutsch.
+EN: To prepare for the mathematically rigorous core modules of the M.Sc. program (specifically Stochastic Processes and Time Series Analysis), I am following an interdisciplinary 12-week plan. This sprint serves to systematically transform my engineering foundation into specialized expertise in regulatory data analytics.
 
----
+Track A: Applied Engineering (University of Michigan)
 
-## 📂 Repository Architektur & Fortschritt
+DE: Skalierbare Datenverarbeitung und algorithmische Effizienz mittels Pandas und NumPy.
 
-### [01_Lineare_Algebra_und_Ethik](./01_Lineare_Algebra_und_Ethik)
-* **Mathematik:** Matrizenrechnung, Vektorräume, Transformationen.
-* **Engineering:** Datenstrukturen und Manipulation demografischer Datensätze.
-* **Governance:** Ethik automatisierter Entscheidungen und Bias-Risiken.
-* **Status:** In Bearbeitung 🔄
+EN: Scalable data processing and algorithmic efficiency using Pandas and NumPy.
 
-### [02_Analysis_und_Ressourcenverbrauch](./02_Analysis_und_Ressourcenverbrauch) *(Geplant)*
-* **Fokus:** Gradient Descent, Kostenfunktionen und der ökologische Fußabdruck von KI-Modellen.
+Track B: Algorithmic Theory (DeepLearning.AI)
 
-### [03_Wahrscheinlichkeit_und_Bias](./03_Wahrscheinlichkeit_und_Bias) *(Geplant)*
-* **Fokus:** Verteilungen, Bayessche Inferenz und die statistische Analyse von Migrations- und NGO-Daten.
+DE: Mathematische Fundierung von Machine-Learning-Modellen und stochastische Optimierungsverfahren.
 
----
+EN: Mathematical foundations of machine learning models and stochastic optimization techniques.
 
-## 🛠️ Technisches Profil
-* **Quantitative Methoden:** Signalverarbeitung, Stochastik, Lineare Algebra.
-* **Programmierung & Data Science:** Python, SQL, Jupyter Environments.
-* **System-Engineering:** Netzwerkarchitektur (CCNA), Cybersecurity Risk Management Framework,Fortinet.
-* **Kommunikation:** Wissenschaftliches Deutsch (Fokus: Nominalstil, präzise Fachterminologie).
+Track C: Governance & Compliance
 
----
-**Kontakt:** Simona-Maria Girjoaba | [LinkedIn Profil](https://www.linkedin.com/in/simona-maria-girjoaba) | E-Mail: newgirjoabasimonamaria@gmail.com
+DE: Implementierung von Privacy-by-Design-Prinzipien und Durchführung von KI-Konformitätsbewertungen gemäß EU AI Act.
 
-> *Methodischer Hinweis: Dieses Portfolio wendet Prinzipien der kontinuierlichen Integration auf den akademischen Lernprozess an. Generative KI wird ausschließlich als Code-Reviewer und Korrektor für die deutsche Wissenschaftssprache eingesetzt. Sämtliche Architekturentscheidungen und Datenanalysen sind eigenständig entwickelt.*
+EN: Implementation of Privacy-by-Design principles and conducting AI conformity assessments according to the EU AI Act.
+
+📂 Repository-Struktur | Repository Structure
+01_Linear_Algebra_and_Ethics
+DE: Vektorräume, Matrizenrechnung und die Ethik automatisierter Entscheidungsfindungen.
+
+EN: Vector spaces, matrix calculus, and the ethics of automated decision-making.
+
+02_Master_Curriculum_DS_ML
+Track A: Applied Data Science with Python (Michigan Specialization).
+
+Track B: Machine Learning Specialization (DeepLearning.AI).
+
+Track C: Regulatory Documentation & Audit Reports.
+
+🛠️ Technisches Profil | Technical Profile
+Domain Focus: Anti-Money Laundering (AML), Privacy-Enhancing Technologies (PETs), AI Governance.
+
+Quantitative Methods: Linear Algebra, Statistical Inference, Calculus.
+
+Tools: Python (NumPy, Pandas, Scikit-Learn), SQL, Git, LaTeX.
+
+Languages: German (C1/C2 - Regulatory/Scientific), English (Academic/Technical).
+
+🤖 KI-Unterstützung | AI Attribution
+DE: Dieses Portfolio und die zugrundeliegende methodische Struktur wurden unter unterstützender Verwendung von generativer KI (Gemini) erstellt. Die KI fungierte hierbei als Tutor für die fachsprachliche Optimierung (C2-Deutsch/Academic English) sowie als Architektur-Berater für die Verzeichnisstruktur und die methodische Verknüpfung der Curricula. Alle fachlichen Inhalte und Implementierungen unterliegen meiner persönlichen Validierung.
+
+EN: This portfolio and its underlying methodical structure were developed with the support of generative AI (Gemini). The AI served as a tutor for linguistic optimization (C2 German/Academic English) and as an architectural consultant for the directory structure and the methodical integration of the curricula. All technical content and implementations are subject to my personal validation.
+
+Kontakt: Simona-Maria Girjoaba | https://www.linkedin.com/in/simona-maria-girjoaba | E-Mail: newgirjoabasimonamaria@gmail.com
