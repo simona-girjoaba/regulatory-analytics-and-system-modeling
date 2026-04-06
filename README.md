@@ -1,5 +1,3 @@
-1. Die finale globale README.md (Hauptverzeichnis)
-Ersetzen Sie den Inhalt Ihrer zentralen README.md durch diesen Text. Er enthält nun den "Progressive Extension"-Fokus für Track A:
 
 Markdown
 # 🇩🇪 Regulatorische Analytik & Systemmodellierung | 🇺🇸 Regulatory Analytics & System Modeling
