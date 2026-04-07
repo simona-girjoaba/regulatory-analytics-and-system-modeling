@@ -9,6 +9,5 @@ Hier dokumentiere ich den Abschluss der einzelnen Lektionen des Michigan-Curricu
 - [x] **Lektion 3:** More on Strings (IBAN Extraktion)
 - [x] **Lektion 4:** Dates and Times (Zeit-Analyse für Forensik)
 
-### Notebook 02: CSV Data Processing (Next Step)
-
-- [ ] **Lektion 5:** Reading and Writing CSV files
+### Notebook 02: CSV Data Processing
+- [x] **Lektion 5:** Reading and Writing CSV files (AML Alert Generation)
