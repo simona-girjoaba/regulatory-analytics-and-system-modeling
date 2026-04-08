@@ -1,43 +1,37 @@
-# 🏛️ Regulatory Analytics & AML Data Engineering Portfolio
+# 📊 Course 1: Introduction to Data Science in Python (Michigan)
 
-> **Academic Track:** Preparation for M.Sc. Data Science / Financial Mathematics (THM Friedberg)  
-> **Domain Focus:** Anti-Money Laundering (AML), Privacy Engineering, and Quantitative Risk Analysis
-
-Dieses Repository dokumentiert den systematischen Kompetenzaufbau im Bereich der computergestützten Datenverarbeitung. Der Fokus liegt auf der Entwicklung performanter, DSGVO-konformer und skalierbarer Pipelines zur Detektion von Finanzkriminalität.
+> **Scientific Abstract (DE):** Dieses Modul bildet die methodische Basis der Datenmanipulation. Es transformiert unstrukturierte Rohdaten in prozessierbare numerische Strukturen und führt in die Tabellenkalkulation mit Pandas ein. Wir erweitern dieses Curriculum um Privacy Engineering (Differential Privacy), um den Anforderungen der modernen AML-Forensik gerecht zu werden.
 
 ---
 
 ## 📈 Lernfortschritt | Progress Tracking
 
-### 🧱 Modul 1: Fundamentals of Data Manipulation with Python
+Gemäß der Coursera-Struktur ist dieses Modul in vier Phasen unterteilt:
 
-**Notebook 01: Python Basics and Strings**
-- [x] **Lektion 1:** Python Functions (Entwicklung von Risiko-Klassifizierungslogiken)
-- [x] **Lektion 2:** Types and Sequences (Modellierung invarianter Transaktions-Tupel)
-- [x] **Lektion 3:** More on Strings (Syntaktische Extraktion kryptografischer Identifikatoren wie IBANs)
-- [x] **Lektion 4:** Dates and Times (Temporale Sequenzanalyse für die AML-Forensik)
+### 🧱 Module 1: Fundamentals of Data Manipulation with Python
+*Fokus: Strings, Regex, NumPy & Privacy Basics.*
+- [x] **NB 01: Python Basics and Strings** (Risiko-Klassifizierungslogik)
+- [x] **NB 02: CSV Data Processing** (Automatisierte Alert-Generierung)
+- [ ] **NB 03: Advanced Python Programming** (PII-Masking mittels **Regex**)
+- [ ] **NB 04: Numerical Computing with NumPy** (Vektorisierte Anomalie-Detektion)
+- [ ] **NB 05: Differential Privacy & ESG Reporting** (Laplace-Mechanismus)
 
-**Notebook 02: CSV Data Processing**
-- [x] **Lektion 5:** File I/O & CSV Processing (Automatisierte Generierung von AML-Alerts)
+### 🐼 Module 2: Basic Data Processing with Pandas
+*Fokus: Series & DataFrame-Strukturen für Compliance-Datenbanken.*
+- [ ] **NB 06: Intro to Pandas DataFrames** (Tabellarische Repräsentation von Transaktionen)
 
-**Notebook 03: Advanced Python Programming**
-- [x] **Lektion 6:** Object-Oriented Programming (OOP) (Deterministische Kapselung von Finanzprodukten)
-- [x] **Lektion 7:** Lambda & List Comprehensions (Deklarative Datenmanipulation und Filterung)
-- [x] **Lektion 8:** Regular Expressions (Regex) (Syntaktische Mustererkennung und PII-Masking)
+### 🔍 Module 3: More Data Processing with Pandas
+*Fokus: Merging, Grouping & Pivoting von Transaktionsströmen.*
+- [ ] **NB 07: Advanced Pandas Operations** (Aggregierte Risiko-Profile)
 
-**Notebook 04: Numerical Computing with NumPy**
-- [x] **Lektion 9:** Array Creation & Datatypes (Allokation hochdimensionaler Tensoren für Finanzströme)
-- [x] **Lektion 10:** Boolean Masking & Vectorization (Latenzarme Identifikation von Structuring/Smurfing)
+### 🧹 Module 4: Answering Questions with Messy Data
+*Fokus: Datenbereinigung & Zeitreihenanalyse in der Forensik.*
+- [ ] **NB 08: Data Cleaning & Forensic Analysis** (Analyse unvollständiger Audit-Logs)
 
 ---
 
-### 🚀 Ausblick: Modul 2 (Robust Software Engineering & Pandas)
+## 🏛️ Methodik & Werkzeuge (Michigan Curriculum)
 
-**Notebook 05: Data Pipeline Architecture (In Planung)**
-- [ ] **Lektion 11:** Error Handling and Exceptions (Robuste Fehlerbehandlung in Echtzeit-Pipelines)
-- [ ] **Lektion 12:** Decorators and Context Managers (Sicheres Ressourcenmanagement)
-- [ ] **Lektion 13:** Iterators and Generators (Speichereffiziente Verarbeitung massiver Transaktionslogs)
-- [ ] **Lektion 14:** Modules and Packages (Architektonische Strukturierung von AML-Tools)
-- [ ] **Lektion 15:** Testing and Debugging (Testgetriebene Verifizierung von Compliance-Algorithmen)
-  
-
+* **Regex & Pattern Matching:** Einsatz von Named Groups und Look-aheads zur Identifikation komplexer Finanzmuster.
+* **NumPy Vektorisierung:** Performante Verarbeitung von Millionen von Datenpunkten ohne Python-Schleifen.
+* **Pandas Foundations:** Übergang von rohen Arrays zu semantisch angereicherten Tabellenstrukturen.
