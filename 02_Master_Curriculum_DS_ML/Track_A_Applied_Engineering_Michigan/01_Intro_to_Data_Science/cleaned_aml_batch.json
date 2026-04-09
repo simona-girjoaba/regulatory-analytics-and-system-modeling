@@ -1,0 +1,37 @@
+[
+    {
+        "account_protected": "ACC-***333",
+        "amount": "1100",
+        "status": "Completed",
+        "timestamp": "2026-05-01 12:34:56,789",
+        "tx_id": "12347"
+    },
+    {
+        "account_protected": "ACC-***111",
+        "amount": "2200",
+        "status": "Pending",
+        "timestamp": "2026-05-01 12:35:01,234",
+        "tx_id": "12348"
+    },
+    {
+        "account_protected": "ACC-***333",
+        "amount": "3300",
+        "status": "Rejected",
+        "timestamp": "2026-05-01 12:35:05,567",
+        "tx_id": "12349"
+    },
+    {
+        "account_protected": "ACC-***343",
+        "amount": "1500",
+        "status": "Completed",
+        "timestamp": "2026-05-01 12:38:56,789",
+        "tx_id": "12350"
+    },
+    {
+        "account_protected": "ACC-***141",
+        "amount": "2300",
+        "status": "Pending",
+        "timestamp": "2026-05-01 12:45:01,300",
+        "tx_id": "12351"
+    }
+]
