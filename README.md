@@ -17,7 +17,11 @@
 
 **EN:** To prepare for the mathematically rigorous core modules of the M.Sc. (especially *Measure and Integration Theory*, *Stochastic Processes*, and *Risk Management*), I have designed an **interdisciplinary 17‑week sprint** starting on **April 13, 2026**. This sprint integrates three pillars: mathematical foundations (focus on measure theory, time series, optimization), applied Python engineering (PyTorch, federated learning, XAI), and regulatory compliance (EU AI Act, GDPR, privacy‑by‑design). The program is accompanied by **C2‑level German language training** for academic reporting and negotiation. The C2 level refers to the linguistic elaboration of compliance reports, audits, and negotiation protocols – not to mathematical notation or Python code.
 
----
+## 📚 Zusätzliche Ressourcen
+
+**DE:** Eine detaillierte Sammlung von Lernstrategien für die tägliche Umsetzung des Sprints (Pomodoro, aktives Erinnern, Reflexion) finden Sie in der Datei [`docs/Lernempfehlungen_Sprint.md`](./docs/Lernempfehlungen_Sprint.md).
+
+**EN:** A detailed collection of learning strategies for the daily implementation of the sprint (Pomodoro, active recall, reflection) can be found in the file [`docs/Lernempfehlungen_Sprint.md`](./docs/Lernempfehlungen_Sprint.md).
 
 ## 📂 Repository-Struktur & Lernfortschritt | Structure & Progress Tracking
 
