@@ -1,5 +1,7 @@
 # 🇩🇪 Regulatorische Analytik & Systemmodellierung | 🇺🇸 Regulatory Analytics & System Modeling
-**Aspiring AML Data Scientist | Privacy Engineer in Training** *M.Sc. Preparation: Mathematics for Sustainability, Economics, and Data Science (THM Friedberg)*
+**Aspiring AML Data Scientist | Privacy Engineer in Training**  
+*M.Sc. Preparation: Mathematics for Sustainability, Economics, and Data Science (THM Friedberg)* 
+*M.Sc. Preparation: Mathematik für Nachhaltigkeit, Wirtschaft und Data Science (THM Friedberg)*
 
 ---
 
@@ -12,37 +14,24 @@
 
 ## 🏛️ Methodik: Der Master-Vorbereitungs-Sprint | Methodology: Master Prep Sprint
 
-**DE:** Zur Vorbereitung auf die mathematisch anspruchsvollen Kernmodule des M.Sc. (insb. *Stochastische Prozesse*) folge ich einem interdisziplinären 12-Wochen-Plan zur systematischen Kompetenzerweiterung:
+**DE:** Zur Vorbereitung auf die mathematisch anspruchsvollen Kernmodule des M.Sc. (insb. *Maß- und Integrationstheorie*, *Stochastische Prozesse* sowie *Risikomanagement*) folge ich einem **interdisziplinären 17‑Wochen‑Plan** zur systematischen Kompetenzerweiterung. Dieser Sprint integriert drei Säulen: mathematische Grundlagen (mit Fokus auf Maßtheorie, Zeitreihen, Optimierung), angewandtes Python‑Engineering (PyTorch, Federated Learning, XAI) sowie regulatorische Compliance (EU AI Act, DSGVO, Privacy‑by‑Design). Begleitet wird das Programm durch ein **C2‑Sprachtraining** für akademische Berichterstattung und Verhandlungsführung.
 
-**EN:** To prepare for the mathematically rigorous core modules of the M.Sc. (specifically *Stochastic Processes*), I follow an interdisciplinary 12-week plan for systematic skill extension:
-
-* **Track A: Applied Engineering (University of Michigan)**
-    * **DE:** Progressive Erweiterung der Python-Expertise: Von der effizienten Verarbeitung unstrukturierter Daten (Strings, CSV, Lambda) bis hin zur hochperformanten Systemmodellierung (NumPy, Pandas) und Social Network Analysis (SNA).
-    * **EN:** Progressive extension of Python expertise: From efficient unstructured data processing (Strings, CSV, Lambda) to high-performance systems modeling (NumPy, Pandas) and Social Network Analysis (SNA).
-* **Track B: Algorithmic Theory (DeepLearning.AI)**
-    * **DE:** Mathematische Fundierung von ML-Modellen und stochastische Optimierungsverfahren.
-    * **EN:** Mathematical foundations of ML models and stochastic optimization techniques.
-* **Track C: Governance & Compliance**
-    * **DE:** Privacy-by-Design und KI-Konformitätsbewertungen gemäß **EU AI Act**.
-    * **EN:** Privacy-by-Design and AI conformity assessments according to the **EU AI Act**.
+**EN:** To prepare for the mathematically rigorous core modules of the M.Sc. (especially *Measure and Integration Theory*, *Stochastic Processes*, and *Risk Management*), I follow an **interdisciplinary 17‑week sprint** for systematic skill enhancement. This sprint integrates three pillars: mathematical foundations (focus on measure theory, time series, optimization), applied Python engineering (PyTorch, federated learning, XAI), and regulatory compliance (EU AI Act, GDPR, privacy‑by‑design). The program is accompanied by **C2‑level German language training** for academic reporting and negotiation.
 
 ---
 
 ## 📂 Repository-Struktur & Lernfortschritt | Structure & Progress Tracking
 
-### 📐 [01_Linear_Algebra_and_Ethics](./01_Linear_Algebra_and_Ethics)
-**DE/EN:** Mathematische Grundlagen (Vektorräume, Matrizenkalkül) und ethische Governance (ESG, Fairness in AI) im Kontext algorithmischer Finanzsysteme / Mathematical foundations (Vector spaces, Matrix calculus) and ethical governance.
-
-### 🧠 [02_Master_Curriculum_DS_ML](./02_Master_Curriculum_DS_ML)
-Dieses Verzeichnis enthält die integrierten Master-Prep Tracks:
+### 🧠 [01_Master_Curriculum_DS_ML](./01_Master_Curriculum_DS_ML)
+**DE/EN:** Integrierte Master‑Vorbereitungstracks (University of Michigan & DeepLearning.AI) – Grundlegende Data‑Science‑ und Machine‑Learning‑Kompetenzen.
 
 #### 🛠️ Track A: Applied Engineering (Michigan Curriculum)
 **[IN PROGRESS] Modul 1: Introduction to Data Science in Python**
-- [x] **NB 01: Python Basics and Strings** | *DE: Risiko-Klassifizierung / EN: Risk Classification*
-- [x] **NB 02: CSV Data Processing** | *DE: AML-Alerts / EN: AML Alert Generation*
-- [ ] **NB 03: Advanced Python Programming** | *DE: OOP & Regex für PII-Masking / EN: OOP & Regex for PII Masking*
-- [ ] **NB 04: Numerical Computing with NumPy** | *DE: Vektorisierte Smurfing-Detektion / EN: Vectorized Smurfing Detection*
-- [] **NB 05: Differential Privacy & ESG** | *DE: Laplace-Mechanismus / EN: Laplace Mechanism for Data Privacy*
+- [x] **NB 01: Python Basics and Strings** | *DE: Risiko‑Klassifizierung / EN: Risk Classification*
+- [x] **NB 02: CSV Data Processing** | *DE: AML‑Alerts / EN: AML Alert Generation*
+- [x] **NB 03: Advanced Python Programming** | *DE: OOP & Regex für PII‑Masking / EN: OOP & Regex for PII Masking*
+- [ ] **NB 04: Numerical Computing with NumPy** | *DE: Vektorisierte Smurfing‑Detektion / EN: Vectorized Smurfing Detection*
+- [ ] **NB 05: Differential Privacy & ESG** | *DE: Laplace‑Mechanismus / EN: Laplace Mechanism for Data Privacy*
 - [ ] **NB 06: Data Manipulation with Pandas** | *[Aktueller Fokus / Current Focus]*
 
 **[PLANNED] Folgemodule in Track A:**
@@ -54,17 +43,35 @@ Dieses Verzeichnis enthält die integrierten Master-Prep Tracks:
 #### 📉 Track B: Algorithmic Theory (DeepLearning.AI)
 - [ ] **01_Supervised_Machine_Learning:** Prädiktive Modelle / Predictive Models.
 - [ ] **02_Advanced_Learning_Algorithms:** Neuronale Netze / Neural Networks.
-- [ ] **03_Unsupervised_Learning:** Anomaly Detection für unbekannte AML-Muster / for novel AML patterns.
+- [ ] **03_Unsupervised_Learning:** Anomalieerkennung für unbekannte AML‑Muster / for novel AML patterns.
 
 #### ⚖️ Track C: Governance and Compliance
-- [ ] **EU AI Act & AMLD6:** Übersetzung rechtlicher Frameworks in RegTech-Konzepte / Translation of legal frameworks into RegTech concepts.
+- [ ] **EU AI Act & AMLD6:** Übersetzung rechtlicher Frameworks in RegTech‑Konzepte / Translation of legal frameworks into RegTech concepts.
+
+---
+
+### 🚀 [02_17_Week_Sprint](./02_17_Week_Sprint)
+**DE:** **Intensiver 17‑wöchiger Sprint** zur Vorbereitung auf den THM‑Master und die Karriere als AML Data Scientist / Privacy Engineer. Enthält tägliche Jupyter‑Notebooks mit:
+- **Block 1:** Mathematik (Maßtheorie, Integration, Zeitreihen, Risikomaße, Optimierung, Kryptographie)
+- **Block 2:** Python‑Engineering (PyTorch, Autoencoder, Federated Learning, XAI, Differential Privacy)
+- **Block 3:** Governance (EU AI Act, DSGVO, Grundrechte‑Folgenabschätzung, Marktüberwachung)
+- **Block 4:** C2‑Sprachtraining (Nominalisierungen, Passiv, Konjunktiv, Infinitivkonstruktionen)
+
+**EN:** **Intensive 17‑week sprint** preparing for the THM Master and a career as AML Data Scientist / Privacy Engineer. Contains daily Jupyter notebooks covering:
+- **Block 1:** Mathematics (measure theory, integration, time series, risk measures, optimization, cryptography)
+- **Block 2:** Python engineering (PyTorch, autoencoders, federated learning, XAI, differential privacy)
+- **Block 3:** Governance (EU AI Act, GDPR, fundamental rights assessment, market surveillance)
+- **Block 4:** C2 language training (nominalization, passive voice, subjunctive, infinitive constructions)
+
+**Status:** *In Bearbeitung – wöchentliche Befüllung gemäß akademischer Agenda / In progress – weekly population according to academic agenda.*
 
 ---
 
 ## 🤖 KI-Unterstützung | AI Attribution
-**DE:** Dieses Portfolio wurde unter unterstützender Verwendung von **generativer KI (Gemini)** erstellt (Linguistische Optimierung & Architektur-Beratung). Alle Inhalte unterliegen meiner persönlichen Validierung.
+**DE:** Dieses Portfolio wurde unter unterstützender Verwendung von **generativer KI (Gemini/DeepSeek)** erstellt (Linguistische Optimierung & Architektur‑Beratung). Alle Inhalte unterliegen meiner persönlichen Validierung.
 
-**EN:** This portfolio was developed with the support of **generative AI (Gemini)** (Linguistic optimization & architectural consultation). All content is subject to my personal validation.
+**EN:** This portfolio was developed with the support of **generative AI (Gemini/DeepSeek)** (Linguistic optimization & architectural consultation). All content is subject to my personal validation.
 
 ---
-**Kontakt:** Simona-Maria Girjoaba | [LinkedIn](https://www.linkedin.co
+
+**Kontakt:** Simona-Maria Girjoaba | [LinkedIn](https://www.linkedin.com/in/simona-maria-girjoaba/)
