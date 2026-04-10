@@ -25,3 +25,9 @@ Nach Abschluss des Sprints wird hier ein vollständiges Konformitäts‑Audit so
 
 ---
 *Dieser Track gewährleistet die regulatorische Compliance aller im Sprint entwickelten KI‑Systeme.*
+
+## Sprachliche Ausarbeitung
+
+Alle schriftlichen Ausarbeitungen in diesem Track (E‑Mails, Memos, Audits, Folgenabschätzungen) sind auf dem **C2‑Niveau** des Gemeinsamen Europäischen Referenzrahmens verfasst.
+
+**EN:** All written outputs in this track (emails, memos, audits, impact assessments) are produced at the **C2 level** of the Common European Framework of Reference.

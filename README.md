@@ -13,9 +13,9 @@
 
 ## 🏛️ Methodik: Der Master-Vorbereitungs-Sprint (Start: 13.04.2026)
 
-**DE:** Zur Vorbereitung auf die mathematisch anspruchsvollen Kernmodule des M.Sc. (insb. *Maß- und Integrationstheorie*, *Stochastische Prozesse* sowie *Risikomanagement*) habe ich einen **interdisziplinären 17‑Wochen‑Plan** konzipiert. Dieser Sprint beginnt am **13. April 2026** und integriert drei Säulen: mathematische Grundlagen (mit Fokus auf Maßtheorie, Zeitreihen, Optimierung), angewandtes Python‑Engineering (PyTorch, Federated Learning, XAI) sowie regulatorische Compliance (EU AI Act, DSGVO, Privacy‑by‑Design). Begleitet wird das Programm durch ein **C2‑Sprachtraining** für akademische Berichterstattung und Verhandlungsführung.
+**DE:** Zur Vorbereitung auf die mathematisch anspruchsvollen Kernmodule des M.Sc. (insb. *Maß- und Integrationstheorie*, *Stochastische Prozesse* sowie *Risikomanagement*) habe ich einen **interdisziplinären 17‑Wochen‑Plan** konzipiert. Dieser Sprint beginnt am **13. April 2026** und integriert drei Säulen: mathematische Grundlagen (mit Fokus auf Maßtheorie, Zeitreihen, Optimierung), angewandtes Python‑Engineering (PyTorch, Federated Learning, XAI) sowie regulatorische Compliance (EU AI Act, DSGVO, Privacy‑by‑Design). Begleitet wird das Programm durch ein **C2‑Sprachtraining** für akademische Berichterstattung und Verhandlungsführung. Das C2‑Niveau bezieht sich auf die sprachliche Ausarbeitung von Compliance‑Berichten, Audits und Verhandlungsprotokollen – nicht auf die mathematische Notation oder den Python‑Code.
 
-**EN:** To prepare for the mathematically rigorous core modules of the M.Sc. (especially *Measure and Integration Theory*, *Stochastic Processes*, and *Risk Management*), I have designed an **interdisciplinary 17‑week sprint** starting on **April 13, 2026**. This sprint integrates three pillars: mathematical foundations (focus on measure theory, time series, optimization), applied Python engineering (PyTorch, federated learning, XAI), and regulatory compliance (EU AI Act, GDPR, privacy‑by‑design). The program is accompanied by **C2‑level German language training** for academic reporting and negotiation.
+**EN:** To prepare for the mathematically rigorous core modules of the M.Sc. (especially *Measure and Integration Theory*, *Stochastic Processes*, and *Risk Management*), I have designed an **interdisciplinary 17‑week sprint** starting on **April 13, 2026**. This sprint integrates three pillars: mathematical foundations (focus on measure theory, time series, optimization), applied Python engineering (PyTorch, federated learning, XAI), and regulatory compliance (EU AI Act, GDPR, privacy‑by‑design). The program is accompanied by **C2‑level German language training** for academic reporting and negotiation. The C2 level refers to the linguistic elaboration of compliance reports, audits, and negotiation protocols – not to mathematical notation or Python code.
 
 ---
 
@@ -30,9 +30,9 @@ Integrierte Master‑Vorbereitungstracks (University of Michigan & DeepLearning.
 ---
 
 ## 🤖 KI-Unterstützung | AI Attribution
-**DE:** Dieses Portfolio wurde unter unterstützender Verwendung von **generativer KI (Gemini)** erstellt (Linguistische Optimierung & Architektur‑Beratung). Alle Inhalte unterliegen meiner persönlichen Validierung.
+**DE:** Dieses Portfolio wurde unter unterstützender Verwendung von **generativer KI (Gemini/DeepSeek)** erstellt (Linguistische Optimierung & Architektur‑Beratung). Alle Inhalte unterliegen meiner persönlichen Validierung.
 
-**EN:** This portfolio was developed with the support of **generative AI (Gemini)** (Linguistic optimization & architectural consultation). All content is subject to my personal validation.
+**EN:** This portfolio was developed with the support of **generative AI (Gemini/DeepSeek)** (Linguistic optimization & architectural consultation). All content is subject to my personal validation.
 
 ---
 
