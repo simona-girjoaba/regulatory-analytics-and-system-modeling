@@ -1,4 +1,4 @@
-# 🇩🇪 Regulatorische Analytik & Systemmodellierung | 🇺🇸 Regulatory Analytics & System Modeling
+# 🇩🇪 Regulatorische Analytik & Systemmodellierung | EN Regulatory Analytics & System Modeling
 **Aspiring AML Data Scientist | Privacy Engineer in Training**  
 *M.Sc. Preparation: Mathematics for Sustainability, Economics, and Data Science (THM Friedberg)*
 
