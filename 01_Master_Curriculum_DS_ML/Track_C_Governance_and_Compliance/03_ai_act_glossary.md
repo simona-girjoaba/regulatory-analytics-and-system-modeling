@@ -1,0 +1,17 @@
+# Strategisches Glossar: EU KI-Verordnung (AI Act)
+**Fokus:** AML Data Science & Privacy Engineering  
+**Erstellungsdatum:** 15. April 2026  
+**Datei:** `03_ai_act_glossary.md`
+
+| Begriff | Definition (Paraphrasiert) | Operationeller Bezug (AML/Privacy) |
+| :--- | :--- | :--- |
+| **1. KI-System** | Ein softwarebasiertes System, das aus Input-Daten durch algorithmische Verarbeitung (häufig Machine Learning) Output-Daten (Vorhersagen, Klassifizierungen) generiert, welche physische oder virtuelle Umgebungen beeinflussen. | Das automatisierte Transaktionsmonitoring-System zur Erkennung von Geldwäsche-Clustern. |
+| **2. Anbieter** | Die juristische Person, die ein KI-System entwickelt (oder entwickeln lässt), um es unter eigenem Markennamen in der EU in den Verkehr zu bringen oder in Betrieb zu nehmen. | Die Bank/FinTech, sofern sie ihre AML-Modelle selbst entwickelt und intern produktiv setzt. |
+| **3. Betreiber** | Jede natürliche oder juristische Person, die ein KI-System in eigener Verantwortung nutzt (außer im privaten Bereich). | Die Fachabteilung (Compliance/AML), welche die Ergebnisse der KI-Modelle zur Fallbearbeitung nutzt. |
+| **4. Hochrisiko-KI** | KI-Systeme mit erheblichem Gefährdungspotenzial für Grundrechte oder Sicherheit, insbesondere in kritischen Bereichen wie der Kreditwürdigkeitsprüfung oder Strafverfolgung. | AML-Systeme können je nach Eingriffstiefe und Verknüpfung mit Credit Scoring unter diese Kategorie fallen (Anhang III). |
+| **5. Transparente KI** | Die technische und prozessuale Eigenschaft eines Systems, die sicherstellt, dass die Logik der Output-Generierung für den Betreiber nachvollziehbar und erklärbar bleibt. | Die Notwendigkeit von XAI (Explainable AI), um dem AML-Ermittler die Gründe für einen "Suspicious Activity"-Flag aufzuzeigen. |
+| **6. Konformitätsbewertung** | Ein systematisches Prüfverfahren zum Nachweis, dass ein KI-System alle Anforderungen des AI Act (insb. Risikomanagement und Datenqualität) erfüllt. | Der obligatorische Prüfprozess vor dem Roll-out eines neuen neuronalen Netzes für die Betrugserkennung. |
+| **7. Notifizierte Stelle** | Eine staatlich benannte, unabhängige Prüfinstanz, die bei bestimmten Hochrisiko-KI-Systemen die Konformitätsbewertung durchführt oder überwacht. | Externe Auditoren, die das Privacy-by-Design-Konzept und die Modellvalidierung zertifizieren. |
+| **8. Grundrechte-Folgenabschätzung** | Eine dokumentierte Analyse der potenziellen Risiken, die der Einsatz eines KI-Systems für die Grundrechte der betroffenen Personen (z. B. Datenschutz, Nichtdiskriminierung) darstellt. | Prüfung, ob der AML-Algorithmus bestimmte Bevölkerungsgruppen durch Biased Data diskriminiert (Art. 27). |
+| **9. Technische Dokumentation** | Die fortlaufende und detaillierte Aufzeichnung über Architektur, Design-Entscheidungen, Trainingsdaten und Validierungsprozesse des KI-Systems. | Das zentrale Repository für Modell-Metadaten, Hyperparameter und die mathematische Herleitung der Differential-Privacy-Parameter. |
+| **10. Marktüberwachung** | Die hoheitliche Kontrolle durch nationale Behörden zur Gewährleistung, dass im Markt befindliche KI-Systeme dauerhaft die gesetzlichen Standards einhalten. | Die Aufsichtstätigkeit der BaFin oder der Datenschutzbehörden bezüglich der KI-Compliance des Instituts. |
