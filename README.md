@@ -1,43 +1,66 @@
 # 🇩🇪 Regulatorische Analytik & Systemmodellierung | EN Regulatory Analytics & System Modeling
-**Aspiring AML Data Scientist | Privacy Engineer in Training**  
-*M.Sc. Preparation: Mathematics for Sustainability, Economics, and Data Science (THM Friedberg)*
+
+**Telecommunications Engineer (9+ YExp) | Prospective M.Sc. Student (Target: Oct 2026 @ THM Friedberg)** *Focus: Full-Time Academic Preparation, AML Data Science & Privacy Engineering*
 
 ---
 
 ## 👨‍💻 Professionelles Profil | Professional Profile
-**DE:** Als Ingenieurin für Nachrichtentechnik mit neunjähriger Expertise in komplexen IT-Infrastrukturen befinde ich mich aktuell in einer **gezielten akademischen Spezialisierungsphase**. Dieses Portfolio dokumentiert meinen **wissenschaftlichen Brückenschlag** und die Vorbereitung auf das Masterstudium an der THM Friedberg. Mein Ziel ist die Entwicklung zur **AML Data Scientist und Privacy Engineer** durch die Synergie von fortgeschrittener Mathematik, Python-Engineering und der Evaluation regulatorischer Rahmenbedingungen (EU AI Act/DSGVO).
 
-**EN:** As a Telecommunications Engineer with nine years of experience in complex IT infrastructures, I am currently in a **targeted academic specialization phase**. This portfolio documents my **scientific bridge** and preparation for the M.Sc. program at THM Friedberg. My focus lies in evolving into an **AML Data Scientist and Privacy Engineer** by synthesizing advanced mathematics, Python engineering, and the evaluation of regulatory frameworks (EU AI Act/GDPR).
+**DE:** Als Ingenieurin für Nachrichtentechnik mit neunjähriger Expertise in komplexen IT-Infrastrukturen kombiniere ich praxiserprobte Systemarchitektur mit fortgeschrittener Datenanalytik. Dieses Repository dokumentiert mein **Methodisches Projekt-Portfolio** zur gezielten, vollzeitigen Vorbereitung auf das mathematisch und regulatorisch hochgradig anspruchsvolle Masterstudium an der THM Friedberg (angestrebter Start: Oktober 2026). Um den tiefen akademischen Anforderungen der Kernmodule (u.a. Maßtheorie, Stochastik und Risikomanagement) von Tag eins an gerecht zu werden, liegt mein Fokus aktuell exklusiv auf dieser intensiven Qualifizierungsphase. Ziel ist die Synthese aus fortgeschrittener mathematischer Modellierung, datenschutzkonformem Python-Engineering (AML/Fraud Detection) und der Auditierung realer rechtlicher Leitplanken (EU AI Act, DSGVO).
+
+**EN:** As a Telecommunications Engineer with nine years of experience in complex IT infrastructures, I combine field-proven system architecture with advanced data analytics. This repository documents my **Methodical Project Portfolio**, built as part of a dedicated, full-time preparation phase for the mathematically and regulatorily rigorous M.Sc. program at THM Friedberg (planned start: October 2026). To seamlessly meet the high academic standards of the core modules (including measure theory, stochastic processes, and risk management) from day one, my current focus is exclusively dedicated to this intensive qualification phase. The objective is to synthesize advanced mathematical modeling, privacy-preserving Python engineering (AML/Fraud Detection), and the auditing of real-world regulatory frameworks (EU AI Act, GDPR).
 
 ---
 
-## 🏛️ Methodik: Der Master-Vorbereitungs-Sprint (Start: 13.04.2026)
+## 🏛️ Das Portfolio-Framework | The Portfolio Framework
 
-**DE:** Zur Vorbereitung auf die mathematisch anspruchsvollen Kernmodule des M.Sc. (insb. *Maß- und Integrationstheorie*, *Stochastische Prozesse* sowie *Risikomanagement*) habe ich einen **interdisziplinären 17‑Wochen‑Plan** konzipiert. Dieser Sprint beginnt am **13. April 2026** und integriert drei Säulen: mathematische Grundlagen (mit Fokus auf Maßtheorie, Zeitreihen, Optimierung), angewandtes Python‑Engineering (PyTorch, Federated Learning, XAI) sowie regulatorische Compliance (EU AI Act, DSGVO, Privacy‑by‑Design). Begleitet wird das Programm durch ein **C2‑Sprachtraining** für akademische Berichterstattung und Verhandlungsführung. Das C2‑Niveau bezieht sich auf die sprachliche Ausarbeitung von Compliance‑Berichten, Audits und Verhandlungsprotokollen – nicht auf die mathematische Notation oder den Python‑Code.
+**DE:** Ab dem **18. Mai 2026** wird dieses Vorhaben als interdisziplinäres Fallstudien-Portfolio exekutiert. Jede Phase wird als angewandter Proof-of-Concept (PoC) in ausführbaren Code übersetzt, um die Brücke zwischen langjähriger Infrastruktur-Erfahrung und mathematischer Forschung zu schlagen. Jede Lerneinheit synthetisiert vier Kernbereiche:
+1. **Mathematik:** Formale mathematische Herleitungen und stochastische Modellierungen.
+2. **Python-Engineering:** Validierung der Theorie durch Code (z. B. NumPy, Pandas, PyTorch), streng abgesichert durch automatisierte `assert`-Testabdeckungen.
+3. **Governance & Compliance:** Technisch-rechtliche Auditierung der Systeme gegen DSGVO- und EU-KI-Verordnungs-Standards.
+4. **C2-Sprachtraining:** Hochpräzise Übersetzung technischer Sachverhalte in den im deutschen Audit- und Corporate-Umfeld geforderten Nominalstil.
 
-**EN:** To prepare for the mathematically rigorous core modules of the M.Sc. (especially *Measure and Integration Theory*, *Stochastic Processes*, and *Risk Management*), I have designed an **interdisciplinary 17‑week sprint** starting on **April 13, 2026**. This sprint integrates three pillars: mathematical foundations (focus on measure theory, time series, optimization), applied Python engineering (PyTorch, federated learning, XAI), and regulatory compliance (EU AI Act, GDPR, privacy‑by‑design). The program is accompanied by **C2‑level German language training** for academic reporting and negotiation. The C2 level refers to the linguistic elaboration of compliance reports, audits, and negotiation protocols – not to mathematical notation or Python code.
+**EN:** Launching **May 18, 2026**, this repository serves as an interdisciplinary case-study portfolio. Every phase is translated into an applied Proof-of-Concept (PoC) to bridge extensive infrastructure experience with academic research standards. Each unit synthesizes four core pillars:
+1. **Mathematics:** Formal mathematical derivations and stochastic modeling for risk assessment.
+2. **Python Engineering:** Translating theory into production-ready data pipelines (NumPy, Pandas, PyTorch), fully verified via automated `assert` testing suites.
+3. **Governance & Compliance:** Auditing engineered systems against strict GDPR and EU AI Act constraints.
+4. **C2 Language Training:** Drafting highly dense, professional German business and audit reports (Nominalstil).
 
-## 📚 Zusätzliche Ressourcen
+---
 
-**DE:** Eine detaillierte Sammlung von Lernstrategien für die tägliche Umsetzung des Sprints (Pomodoro, aktives Erinnern, Reflexion) finden Sie in der Datei [`docs/Lernempfehlungen_Sprint.md`](./docs/Lernempfehlungen_Sprint.md).
+## 📂 Repository-Struktur | Repository Architecture
 
-**EN:** A detailed collection of learning strategies for the daily implementation of the sprint (Pomodoro, active recall, reflection) can be found in the file [`docs/Lernempfehlungen_Sprint.md`](./docs/Lernempfehlungen_Sprint.md).
+Das Repository ist modular nach dem Industriestandard für reproduzierbare Datenprojekte strukturiert:
 
-## 📂 Repository-Struktur & Lernfortschritt | Structure & Progress Tracking
+### 🧠 [01_Advanced_Specialization_Theory](./01_Advanced_Specialization_Theory)
+* **DE:** Das theoretische Fundament. Enthält die übergeordnete Strukturierung der drei Spezialisierungs-Tracks: Applied Engineering (Michigan), Algorithmic Theory (DeepLearning.AI) und Governance & Compliance.
+* **EN:** The theoretical foundation. Houses the structural deep dives into the three specialization tracks: Applied Engineering (Michigan), Algorithmic Theory (DeepLearning.AI), and Governance & Compliance.
 
-### 🧠 [01_Master_Curriculum_DS_ML](./01_Master_Curriculum_DS_ML)
-Integrierte Master‑Vorbereitungstracks (University of Michigan & DeepLearning.AI) – die Inhalte werden während des Sprints erarbeitet.
+### 🚀 [02_Methodical_Project_Portfolio](./02_Methodical_Project_Portfolio)
+* **DE:** Die operative Engine. Enthält die chronologischen Wochenordner (`Woche_1` bis `Woche_19`) mit den täglichen, interaktiven Jupyter-Notebooks und integrierten *Error & Debugging Diaries* zur lückenlosen Dokumentation technischer Problemlösungen.
+* **EN:** The operational engine. Houses chronological weekly folders (`Woche_1` to `Woche_19`) containing the daily interactive Jupyter Notebooks and integrated *Error & Debugging Diaries* for end-to-end technical problem-solving documentation.
 
-### 🚀 [02_17_Week_Sprint](./02_17_Week_Sprint)
-**Intensiver 17‑wöchiger Sprint** (Start 13.04.2026) mit täglichen Jupyter‑Notebooks für Mathematik, Python‑Engineering, AI Act‑Studien und C2‑Sprachtraining. Die detaillierte Agenda ist in den Unterordnern `Woche_1` bis `Woche_17` dokumentiert.
+### 📋 [docs](./docs)
+* **DE:** Zentrale Dokumentation, wissenschaftliche Leitfäden und strategische Lernempfehlungen für das Portfolio.
+* **EN:** Central repository documentation, academic guidelines, and strategic learning frameworks.
+
+---
+
+## 🔄 Status & Fortschritt | Portfolio Progress Tracking
+
+| Ordner / Directory | Fokus / Core Focus | Status (Live ab/since 18.05.2026) |
+| :--- | :--- | :--- |
+| **`01_Advanced_Specialization_Theory`** | Theoretische Fundierung / Academic Frameworks | 🔄 Aktiv synchronisiert / Actively Synchronized |
+| **`02_Methodical_Project_Portfolio`** | Angewandte PoCs / Executable Case Studies | 🔄 Phasen 1–19 aktiv / Active Execution |
 
 ---
 
 ## 🤖 KI-Unterstützung | AI Attribution
-**DE:** Dieses Portfolio wurde unter unterstützender Verwendung von **generativer KI (Gemini/DeepSeek)** erstellt (Linguistische Optimierung & Architektur‑Beratung). Alle Inhalte unterliegen meiner persönlichen Validierung.
 
-**EN:** This portfolio was developed with the support of **generative AI (Gemini/DeepSeek)** (Linguistic optimization & architectural consultation). All content is subject to my personal validation.
+**DE:** Dieses Portfolio wird unter unterstützender Verwendung von generativer KI (Gemini/DeepSeek) für architektonische Beratung und linguistische Optimierung geführt. Alle architektonischen Entscheidungen, mathematischen Herleitungen und Code-Strukturen unterliegen meiner expliziten, eigenständigen fachlichen Validierung als Ingenieurin.
+
+**EN:** This portfolio is developed with the support of generative AI (Gemini/DeepSeek) for architectural consultation and linguistic optimization. All structural designs, mathematical derivations, and code implementations are subject to strict, independent engineering validation by myself.
 
 ---
 
-**Kontakt:** Simona-Maria Girjoaba | [LinkedIn](https://www.linkedin.com/in/simona-maria-girjoaba/)
+**Kontakt / Contact:** Simona-Maria Girjoaba | [LinkedIn](https://www.linkedin.com/in/simona-maria-girjoaba/)

@@ -1,13 +1,11 @@
 
 # E‑Mail an die Rechtsabteilung der Deutschen FinTech AG
 
-E-Mail_Adresse:
-
 **Betreff** Sicherstellung der KI-Kompetenz gemäß Art. 4 KI-VO für das AML-Transaktionsmonitoring
 
-**Von:** [Simona Girjoaba]  
+**Von:** Simona Girjoaba  
 **An:** rechtsabteilung@deutschefintech.ag  
-**Datum:** [Datum einfügen]
+**Datum:** 13.04.2026
 
 Sehr geehrte Kolleginnen und Kollegen der Rechtsabteilung,
 
