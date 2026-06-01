@@ -52,8 +52,8 @@ def check_nominalstil(file_path, max_words=150):
 
 if __name__ == "__main__":
     # Standardpfad für das Montags-Artefakt Woche 1
-    target_file = "02_Methodical_Project_Portfolio/Woche_1/01_email_ki_kompetenz.md"
-    
+    target_file = r"C:\Users\newgi\regulatory-analytics-and-system-modeling\01_Advanced_Specialization_Theory\Track_C_Governance_and_Compliance\01_email_ki_kompetenz.md"
+
     # Ausführung des Audits
     success = check_nominalstil(target_file, max_words=150)
     
