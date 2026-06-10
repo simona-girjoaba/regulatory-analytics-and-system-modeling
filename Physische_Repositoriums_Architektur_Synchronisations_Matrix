@@ -1,0 +1,16 @@
+regulatory-analytics-and-system-modeling/
+├── 01_Advanced_Specialization_Theory/
+│   └── Track_C_Governance_and_Compliance/
+│       ├── 01_ai_act_geltungsbereich_matrix.md     # Theoretischer Rahmen & Subsumtion
+│       └── 01_email_ki_kompetenz.md                # Entwurf des C2-Schreibartefakts
+├── 02_Methodical_Project_Portfolio/
+│   ├── validation/
+│   │   └── nominalstil_check.py                    # Zentrales automatisiertes Prüfskript
+│   └── Woche_1/
+│       ├── week01_monday_vector_axioms_ai_act.ipynb # Ausführbares Validierungsskript
+│       └── README.md                               # Operative Wochenmatrix (Soll/Ist)
+└── docs/
+    ├── error_diary.md                              # Ledger für KeyError & AssertionError
+    ├── progress_log.md                             # Zentraler Audit-Trail (Phasen-Status)
+    └── weekly_reports/
+        └── week_01.md                              # Revisionssicherer Meilenstein-Bericht

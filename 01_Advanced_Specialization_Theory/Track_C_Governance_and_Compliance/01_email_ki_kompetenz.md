@@ -1,30 +1,26 @@
 
 # E‑Mail an die Rechtsabteilung der Deutschen FinTech AG
 
-**Betreff** Sicherstellung der KI-Kompetenz gemäß Art. 4 KI-VO für das AML-Transaktionsmonitoring
+**Betreff** Juristische Einschätzung zur Umsetzung der KI-Kompetenzpflicht gemäß Art.4 KI-VO für das AML-Transaktionsmonitoring 
 
 **Von:** Simona Girjoaba  
 **An:** rechtsabteilung@deutschefintech.ag  
-**Datum:** 13.04.2026
+**Datum:** 01.06.2026
 
-Sehr geehrte Kolleginnen und Kollegen der Rechtsabteilung,
+Sehr geehrte Damen und Herren,
 
-zur vollständigen Einhaltung der Anforderungen aus Artikel 4 der EU-KI-Verordnung(KI-VO)
-hinsichtlich der Sicherstellung von KI-Kompetenz ("AI Literacy") bitten wir um Ihre juristische
-Einschätzung zu unserem vorgeschlagenen internen Qualifizierungsprozess.
+zur Sicherstellung der vollständigen Konformität mit Art. 4 KI-VO hinsichtlich der Anforderungen an die KI-Kompetenz ("AI Literacy") wir um eine juristische Einschätzung des vorgesehenen internen Qualifizierungsprozesses gebeten.
 
-Da unser neues Anomalieerkennungssystem für das AML-Monitoring voraussichtlich als Hochrisiko-KI-System
-eingestuft wird, ist eine rein technische Implementierung nicht ausreichend. Wir planen daher folgende
-Maßnahmen:
-- verplichtende Schulungen für alle AML-Analysten zur Funktionsweise sowie zu den statistischen Grenzen des Isolation-Forest-Modells
-- quartalsweise Dokumentation des internen Kompetenzaufbaus zur Vorlage bei der Bafin
+Vor dem Hintergrund der voraussichtlichen Einstufung des AML-Anomalieerkennungssystems als Hochrisiko-KI-System erscheint eine ausschließliche Fokussierung auf die technische Implementierung nicht ausreichend.
 
-Bitte prüfen Sie bis Freitag, 14:00 Uhr, ob die geplante Dokumentationstiefe den Anforderungen der KI-VO zur Risikominderung
-entspricht. Bei Bedarf erläutere ich die technischen Details gerne in einem kurzen Termin.
+Vorgesehene Maßnamen:
+1.Verpflichtende Schulungen der AML-Analysten zur Funktionsweise sowie zu den statistischen Grenzen des Isolation-Forest-Modells.
+2. Quartalsweise Dokumentation des internen Kompetenzaufbaus zur Vorlage bei der Bafin
 
-Mit freundlichen Grüßen
+Erbeten wird eine Bewertung der vorgesehenen Dokumentationstiefe im Hinblick auf die Auforderungen der KI-VO zur Risikominderung bis Freitag, 14:00 Uhr.
 
-Simona-Maria Girjoaba
-AML Data Scientist / Privacy Engineer
-Deutsche Fintech AG
+Für eine technische Detailerläuterung steht eine kurzfristige Terminvereinbarung jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen,
+Simona Girjoaba 
 
